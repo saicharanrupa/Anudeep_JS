@@ -1,0 +1,3 @@
+const superh=require("superheros");
+var sh=superh.random()
+console.log(g);
